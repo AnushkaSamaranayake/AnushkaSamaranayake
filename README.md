@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Samaranayake</h1>
-<h3 align="center">A 3rd undergraduate at the Department of Electronic and Telecommunication Engineering University of Moratuwa, striving to apply Engineering principles for Electronic Product Designing, Embedded Systems, Machine Learning, Computer Vison and Robotics.</h3>
+<h3 align="center">A fourth year undergraduate at the Department of Electronic and Telecommunication Engineering University of Moratuwa, striving to apply Engineering principles for Electronic Product Designing, Embedded Systems, Machine Learning, Computer Vison and Robotics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkasamranayake&label=Profile%20views&color=0e75b6&style=flat" alt="anushkasamranayake" /> </p>
 
